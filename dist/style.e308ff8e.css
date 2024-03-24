@@ -1,0 +1,16 @@
+body, html {
+    overflow: hidden; /* Prevents scrolling on the page level */
+    height: 100%; /* Full height to accommodate fixed or absolute positioned elements */
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    border: 1px solid #000;
+}
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
